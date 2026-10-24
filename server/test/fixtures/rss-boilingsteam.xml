@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <atom:link href="https://boilingsteam.com/feed/rss-feed.xml" rel="self" type="application/rss+xml" />
+    <title>Boiling Steam</title>
+    <link>https://boilingsteam.com</link>
+    <description>PC Gaming on Linux is so Tomorrow!</description>
+    <copyright>Copyright 2026 Boiling Steam</copyright>
+    <pubDate>Wed, 21 Oct 2026 00:27:22 +0900</pubDate>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+    <generator>SSG</generator>
+    <image>
+      <link>https://boilingsteam.com</link>
+      <title>Boiling Steam Logo</title>
+      <url>https://boilingsteam.com/android-chrome-192x192.png</url>
+      <height>192</height>
+      <width>192</width>
+    </image>
+     
+     <item>
+ <title>A Pretty Case for the OrangePi 6 Plus</title>
+ <description>We have already received and talked about the OrangePi 6 Plus several times. It’s an awesome ARM64 system with a lot of power under the hood, akin to what you find on modern laptops in terms of performance, it can even run some fairly demanding X86_64 games with Box64! I was always a little sad that it sat naked on my table without a proper cover, so I purchased an aluminium case (I guess the only one?) on Aliexpress to see if it could not be a good match for it. It’s litterally made for it, so it had to! Note that this is NOT something that we were provided, and this is not an ad. Just wanted to share my impressions if you considered buying this case. Turns out, it’s a great case. It’s very light, as expected, but protects well the board that fits perfectly inside. You only need 4 screws to attach the main board, and there are two openings (one on the top of the board, and one on the side) that ensure that air will flow nicely to cool the SoC. I did not notice, under operation, an increase in noise profile so I am assuming the case has no negative impact on the air flow. All ports are clearly labelled, which is very practical. You get holes for other important functions like the micro-SD card port, the audio jack, and the power button. The board comes with a small attachment to make the power button very easy to click. One of the side of the board has a dark glass, which I presume is to allow for a remote infrared control to be used with this board. If you use this device as a media player, this is a great feature so that you can use a relatively cheap IR remote to control what’s happening on a large screen without having to plug a mouse or a gamepad.</description>
+ <link>https://boilingsteam.com/a-nice-case-the-orange-pi-6-plus/index.html</link>
+ <pubDate>Tue, 20 Oct 2026 15:23:15 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with Enshrouded, Over the Hill, and Warhammer 40k: Boltgun 2 - 2026-10-17 Edition</title>
+ <description>Between 2026-10-10 and 2026-10-17 we selected 16 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. This week quite a few good titles, with Enshrouded reaching 1.0 and being widely recognized as great solo/multiplayer survival action RPG (with base building). If you are looking for something more relaxing, Over the Hill takes you offroad across challenging terrains, one more time either solo or with friends. Finally, there’s a new entry in the Warhammer 40k series with the sequel Boltgun 2, a pixel-art shooter that improved on most of the issues from the first opus. Full details below!</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-10-17-edition/index.html</link>
+ <pubDate>Sun, 18 Oct 2026 09:35:15 +0000</pubDate>
+</item>
+ <item>
+ <title>Did Nintendo Kill Switch Emulation? The State of Yuzu, Ryujinx, and Their Forks in 2026</title>
+ <description>We have been covering the Nintendo Switch emulation for years, because it’s a cool topic on the technical side, and has interesting legal ramifications as well. Emulation has pretty much always been considered legal as long as it’s done in a clean room fashion, but that did not prevent the two main Nintendo Switch emulators, Yuzu and Ryujinx, to be struck down one after the other by legal threats from Nintendo. Nintendo is an evil company who ignores any notion of fair use and systematically attacks even small fan projects. So my advice is always, don’t give them your fucking money. Today, it’s time to see if the takedowns from Nintendo on Switch emulators have proven to be effective in the end. It’s now been two years since both Yuzu and Ryujinx have officially closed shop. But those are FOSS projects in the first place. There is a saying that good FOSS never dies, it just hibernates until someone else picks it up. So did they ultimately survive in any shape or form?</description>
+ <link>https://boilingsteam.com/did-nintendo-kill-switch-emulation-the-state-of-yuzu-ryujinx-and-their-forks-in-2026/index.html</link>
+ <pubDate>Fri, 16 Oct 2026 15:36:51 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds, including Car Park Capital and Hungry Horrors - 2026-10-14 Edition</title>
+ <description>Between 2026-10-07 and 2026-10-14 there were 105 New Steam games released with Native Linux builds. For reference, during the same time, there were 768 games released for Windows on Steam, so the Linux versions represent about 13.7 % of total released titles. The highlight is a retro-looking game making you build stuff around cars in Car park Capital, published by Microprose. And then you have Hungry Horrors mixing old English tales with deckbuilding mechanics. All details below and a lot more games!</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-10-14-edition/index.html</link>
+ <pubDate>Fri, 16 Oct 2026 15:04:22 +0000</pubDate>
+</item>
+ <item>
+ <title>Iron Nest: Review on Linux and Steam Deck</title>
+ <description>In Iron Nest, you have a job: you are in charge of a huge mobile cannon, and you have to precisely shoot enemies of the state on demand. Everything is in first person mode. You live inside the Iron Nest cannon, you even have a cat, and some music (vinyl) and a coffee machine to keep you entertained between the different missions. Because of the sheer power of your machine, your ability to destroy enemies from a far way distance is proving to be a decisive factor in the battles to come. Battles, you said? Don’t worry, you won’t see them. You are in a comfortable position, away from the danger. Like someone else said in a popular TV Show, YOU are the danger. The war takes place in alternate-history Spain in the late 1920s, with Dieselpunk elements, as you can guess from the design of the Iron Nest.</description>
+ <link>https://boilingsteam.com/iron-nest-review-on-linux-and-steam-deck/index.html</link>
+ <pubDate>Wed, 14 Oct 2026 16:49:26 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds, including Stuntboost and Deified - 2026-09-23 Edition</title>
+ <description>This one was sitting in the backlog for a while. Now we have time to get to it! Between 2026-09-16 and 2026-09-23 there were 70 New Steam games released with Native Linux builds. For reference, during the same time, there were 667 games released for Windows on Steam, so the Linux versions represent about 10.5 % of total released titles. The highlight is probably for me Stuntboost which is a cool physics based game about racing on cardboards and bedroom environments. There’s also Deified, a highly rated roguelite tactics game with a clever set of rules. It is going out of Early Access with additional difficulty modifiers.</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-09-23-edition/index.html</link>
+ <pubDate>Tue, 13 Oct 2026 08:43:12 +0000</pubDate>
+</item>
+ <item>
+ <title>Radxa Linkr - Reviewed on Linux: An affordable and featureful IP KVM Device</title>
+ <description>So this time this is going to be a different kind of hardware review. Not a keyboard. Not gaming handheld. Not a powerful ARM64 SBC that can game. Today, it’s about the Radxa Linkr, which appears just like a regular HDMI adapter, with a few usb-c ports, one on the side and one at the back. In technical terms, it’s what we call an IP KVM remote control device. Radxa is not unique in that space, but the Linkr is very affordable device considering what it can do. It’s also possible to build you own, if you want to go down that route. And commercially you can also find JetKVM, albeit more pricey. The Radxa Linkr sits just in between: affordable, and featureful, while being plug’n play.</description>
+ <link>https://boilingsteam.com/radxa-linkr-review/index.html</link>
+ <pubDate>Tue, 13 Oct 2026 17:02:09 +0000</pubDate>
+</item>
+ <item>
+ <title>Active Matter: Review on Linux and Steam Deck</title>
+ <description>Gaijin Entertainment is a famous publisher and developer that you probably know if you have ever played stuff like War Thunder, Enlisted or Crossout. So, Gaijin has just launched their new title, Active Matter in September 2026, and it’s a “multiverse extraction shooter”. Yes, that’s a genre nowadays! And we are talking about it also because it has a native build for Linux that runs pretty well. More on that later. Rather than a full review, I plan to share my impressions of the game so far. I have not been able to spend much time in PvP mode (probably not enough players in my time-zone) so this will deserve a follow-up article later on.</description>
+ <link>https://boilingsteam.com/active-matter-review-on-linux-and-steam-deck/index.html</link>
+ <pubDate>Tue, 13 Oct 2026 12:15:02 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with Order of the Sinking Star and Silver Pines - 2026-10-10 Edition</title>
+ <description>Between 2026-10-03 and 2026-10-10 we selected 9 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. A lot of good stuff in this week, with the latest game from Jonathan Blow (known for Braid and Witness), Order of the Sinking Star. If you like puzzles you’ll be served a bunch with that one! For my part I’d go wityh Silver Pines, an action-adventure game taking a bunch of inspiration from Silent Hill and Lynch in general. Seems extremely well made. Full details below.</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-10-10-edition/index.html</link>
+ <pubDate>Sat, 10 Oct 2026 15:20:32 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds, including Toy Shire and Train Station Tycoon - 2026-10-07 Edition</title>
+ <description>Between 2026-09-30 and 2026-10-07 there were 107 New Steam games released with Native Linux builds. For reference, during the same time, there were 735 games released for Windows on Steam, so the Linux versions represent about 14.6 % of total released titles. This week our selection is quite short despite the large initial pool of games. Worth noting is Toy Shire, a tower defense game in a very nice package. Let’s not forget Train Station Tycoon that is still early but shows some great promise. Find details for those 2 and more games below!</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-10-07-edition/index.html</link>
+ <pubDate>Fri, 9 Oct 2026 15:37:09 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds, including Radiotext and The Great Release - 2026-09-30 Edition</title>
+ <description>Between 2026-09-23 and 2026-09-30 there were 128 New Steam games released with Native Linux builds. For reference, during the same time, there were 1022 games released for Windows on Steam, so the Linux versions represent about 12.5 % of total released titles. Nothing super exciting in this week but a few good titles here and there, such as Radiotext. Also it’s worth mentioning The Great Release (free) as a good source of laughs! Full list and details below:</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-09-30-edition/index.html</link>
+ <pubDate>Sun, 4 Oct 2026 13:32:42 +0000</pubDate>
+</item>
+ <item>
+ <title>Older AMD GPUs Get a Second Life in Linux's amdgpu Driver</title>
+ <description>Timur Kristof is a open-source graphics developer and electrical engineer working as a subcontractor for Valve. He used to work on SailfishOS (Jolla), before starting his work on several parts of Mesa, the open graphics drivers stack on Linux. He used his XDC 2026 talk, streamed by the X.Org Foundation on September 30, 2026, to report that decade-old AMD graphics cards now run cleanly on the modern amdgpu driver. The work closed long-standing gaps in display output, video encode and decode, and crash recovery across the GCN generations.</description>
+ <link>https://boilingsteam.com/older-amd-gp-us-get-a-second-life-in-linuxs-amdgpu-driver/index.html</link>
+ <pubDate>Sun, 4 Oct 2026 17:11:42 +0000</pubDate>
+</item>
+ <item>
+ <title>Brigador Killers: Review on Linux and Steam Deck</title>
+ <description>Brigador Killers is a Sci-Fi top-down isometric insurgent (or terrorist depending on whom you ask) simulator, made and published by Stellar Jockeys. It works great with Proton for Linux PCs and the Steam Deck.</description>
+ <link>https://boilingsteam.com/brigador-killers/index.html</link>
+ <pubDate>Sun, 4 Oct 2026 14:01:48 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with Stick it to the Stickman and Dicevaders - 2026-09-30 Edition</title>
+ <description>Between 2026-09-23 and 2026-09-30 we selected 19 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. A lot of games, and in there you have the excellent Stick it to the Stickman which is a physics-based brawler, very creative. Note that it has some performance problems on the Deck despite its Verified status. Thre’s also Dicevaders that build on the Balatro model, in a nice new package. Full list and details below! Here’s what we could find:</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-09-30-edition/index.html</link>
+ <pubDate>Thu, 1 Oct 2026 16:30:55 +0000</pubDate>
+</item>
+ <item>
+ <title>SteamOS 3.8.28 is a Big Update for the Steam Deck and Steam Machine</title>
+ <description>Valve has just recently shipped SteamOS 3.8.28 stable, and this is a major update for the Steam Deck, but not only.</description>
+ <link>https://boilingsteam.com/steam-os-3-8-28-is-a-big-update/index.html</link>
+ <pubDate>Tue, 29 Sep 2026 04:59:05 +0000</pubDate>
+</item>
+ <item>
+ <title>R-Type Dimensions III - Review on Linux and the Steam Deck</title>
+ <description>There are quite a few gems out there when it comes to classic shooters, and R-Type series is extremely popular if you had the chance to live in the 80s. R-Type was a go-to arcade side-scroller shoot’em up where you control a small spaceship, attacking waves of enemies called the Bydo, and at the end of each level you get to fight huge bosses before you can move to the next one. It had novel mechanics letting you have a shield (called the Force) move around independently from your ship (you can detach it anytime from your ship, but it will also make you vulnerable). This is not a bullet hell game (that came later with games in the 90s like DonPachi and DonDonPachi). Here, you have ample time to see bullets coming. Not saying it’s easy though, because a single bullet will kill you. Numerous ports were made in 8 bit and 16 bits machines at the time, some better than the others. Today we are reviewing a modern take on a retro opus from the series, R-Type Dimensions III. The concept is dead simple: take R-Type III: The Third Lightning, the 1993 Super Famicom swan song of Irem’s legendary series, and rebuild it for modern hardware without touching the core design. The Bydo are back, the R-90 Ragnarok is in your hands, and you have six stages to go through a biomechanical nightmare. Still a challenge thirty years later. Maybe more so, since most games have become easier on average.</description>
+ <link>https://boilingsteam.com/r-type-dimensions-iii-review/index.html</link>
+ <pubDate>Mon, 28 Sep 2026 18:00:31 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with Well Dweller and Normal Golf Game - 2026-09-26 Edition</title>
+ <description>Between 2026-09-19 and 2026-09-26 we selected 9 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. The biggest title of the week is Well Dweller, which is apparently one of the best metroidvanias ever made, on par with Hollow Knight if I am to trust what the reviewers are saying. The trailer does certainly look good and make convince you further. Full list and details below!</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-09-26-edition/index.html</link>
+ <pubDate>Sun, 27 Sep 2026 12:59:24 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds, including Dreamcards and I.T. Never Ends - 2026-08-19 Edition</title>
+ <description>Oh my God we are so late with this one, but since there were quite a few good games released in that week, better late than never! Between 2026-08-12 and 2026-08-19 there were 131 New Steam games released with Native Linux builds. For reference, during the same time, there were 1017 games released for Windows on Steam, so the Linux versions represent about 12.9 % of total released titles. In that week, I would have chosen to highlight Dreamcards. It’s a card game where card interactions generate emergent story beats. It gives rise to a bunch of unexpected combos, and it has a Palworld meets Slay the Spire vibes! Honarable mention to I.T. Never Ends, framing a the desk-job around absurd IT tickets, with GLaDOS-tier voice acting and a lot of secrets to uncover. Full details and more games below!</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-08-19-edition/index.html</link>
+ <pubDate>Wed, 23 Sep 2026 08:36:15 +0000</pubDate>
+</item>
+ <item>
+ <title>TGS 2026: Persona 4 Revival</title>
+ <description>It’s 2026, you are one of the biggest Japanese publishers, and you just realized that in a few months down the road there’s the TGS 2026, and you don’t have no plans for it. I mean, you have a couple of news, but nothing worth filling a huge booth that we usually go for. Never mind that! Sega didn’t have a lot this year. It was fairly obvious and their only real new title was Stranger than Heaven which is some kind of spinoff from the Yakuza (Like a Dragon) franchise. It was too early for Persona 6, and the only thing they could do is to throw a P6 teaser with nothing in it back in June 2026 ahead of the show. There’s Crazy Taxi World Tour but it was so low key that they had to put it on the side. Don’t get me wrong, this multiplayer Crazy Taxi has a good chance of being a fun game, but nobody came to TGS to see that.</description>
+ <link>https://boilingsteam.com/tgs-2026-persona-4-revival/index.html</link>
+ <pubDate>Wed, 23 Sep 2026 04:24:58 +0000</pubDate>
+</item>
+ <item>
+ <title>OFFBEAT: Review on Linux and Steam Deck</title>
+ <description>Learn how to produce music with OFFBEAT, both a game and a music creating platform developed by Whetstone Games and published by Pantaloon. Works great on Steam Deck (Playable) and on Linux with Proton. The game starts with your uncle gifting you a music sequencer, and then asks you to create a ringtone with it. You plug your tiger keyboard (not a musical cat toy) and start making music with them. The music sequencer is your main producing tool allows you to set some inputs, pick the notes you want to play from each input and at which time they should play. It also allows you to set beats per minute, and the key of the composition. Once you are satisfied, you can save it to a cassette tape. The initial keyboard, for a toy, it is quite robust, it can mimic a piano, an organ, it also makes meows and engine revving sounds. There is a limit of 3 notes input at a time to create chords. By clicking on it, you can go to an interface that let you play it, or tweak its settings (which kind of sound you want it to make). But you don’t need to play the instrument, the sequencer will take care of that.</description>
+ <link>https://boilingsteam.com/offbeat/index.html</link>
+ <pubDate>Wed, 23 Sep 2026 16:12:12 +0000</pubDate>
+</item>
+ <item>
+ <title>TGS 2026: A White Steam Controller Exists Now. You Just Can't Buy It.</title>
+ <description>I wandered into the eXtremeRate booth at the recent Tokyo Games Show 2026 expecting the usual: more remap kits, more back paddles for controllers I already own too many of. But my eyes caught something on the wall: a Steam Controller with an all-white shell on it, and honestly? My first thought was “Wait, Valve made white?” They didn’t. eXtremeRate did it themselves. And here’s the part that matters: this isn’t a faceplate sticker or some kind of half-assed cosmetic crap. It’s a complete replacement shell. Every single outer panel of the Steam Controller swapped out in one go. Same trick they’ve been pulling on the Steam Deck for years with their full-set shells, where you replace front plate, back plate and buttons as a whole kit instead of hoping your old plastic never ages or cracks. And to be honest, even though my Steam Deck always rests firmly into its case when I am not using it, it’s developed some micro-cracks and some rashes here and there, so sooner or later I may have to swap its shell if I really care about its looks. I’m guessing the same will probably happen with the Steam Controller sooner or later.</description>
+ <link>https://boilingsteam.com/tgs-2026-a-steam-controller-with-a-white-shell/index.html</link>
+ <pubDate>Tue, 22 Sep 2026 02:33:20 +0000</pubDate>
+</item>
+ <item>
+ <title>The Prince is (a) Blue(print): Review</title>
+ <description>How long is too long before something “gets good”? The first few episodes of a TV series? 50 pages of a novel? What about 5-10 hours of a ~30-hour game? At what point do you give up on something, not sure if it is you or it? That was my dilemma in playing the highly lauded Blue Prince, a 2025 indie puzzle “roguelite” game from developers Dogubomb. I had heard good things, and even if I don’t play much in the puzzle genre, it had some familiar mechanics (roguelite, strategy, deck drafting sort of). So I was excited to have a review copy. But it just never landed for me, never making it to something I wanted to see through. And really, I dreaded a run ending to start a new one, the opposite of what any run-based game needs. I was waiting to get over an early hump to see the game open up, but I couldn’t, or wouldn’t, make it over. Drafting a room, with red ones generally a negative, but at least the Chapel gives you a path forward. You can’t rotate the placement. (Screenshots are all from the Steam Deck.) In browsing the community a little, I found I wasn’t alone, if a clear minority. And that doesn’t make it a “bad” game by any means. More like one that didn’t hit for me, because of me (and the genre?) and its own missteps, I would say. There’s a lot that is well done, new, and intriguing in Blue Prince, that I might one day try again. Right now, though, I don’t want to walk through the random corridors of Mt. Holly, not to unravel a mystery, not to unlock more of the game, and not to see if it really gets that good. It has had my time, and I’m not getting that back.</description>
+ <link>https://boilingsteam.com/blue-prince-review/index.html</link>
+ <pubDate>Tue, 22 Sep 2026 11:03:50 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds, including Knuckle Jet and Throttle Race - 2026-09-16 Edition</title>
+ <description>This one is a few days late too but we are catching up after the TGS! Between 2026-09-09 and 2026-09-16 there were 100 New Steam games released with Native Linux builds. For reference, during the same time, there were 980 games released for Windows on Steam, so the Linux versions represent about 10.2 % of total released titles. First I’d like to highlight Knuckle Jet which is a new action ricochet platformer from the makers of Teslagrad, produced with top-notch stop-motion like animation. And there’s also Throttle Race, where you are in control of a F1-like car but only play with brakes and acceleration as your two main variables. It does not mean it’s easy! And it manages to be addicting with a carreer mode that goes into more depth than you’d expect. Full details and more games below!</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-09-16-edition/index.html</link>
+ <pubDate>Mon, 21 Sep 2026 11:26:50 +0000</pubDate>
+</item>
+ <item>
+ <title>ROG: Xbox Ally X20 at the Tokyo Games Show 2026, Improving Further, but no SteamOS in sight</title>
+ <description>A few days ago we went to the Tokyo Games Show 2026 and as expected, we were able to see the new model from ROG/ASUS, the Xbox Ally X20. Why 20? Well, ROG celebrates their 20th year anniversary so the model gets the 20 from there. They had a huge booth at the TGS 2026, even bigger than last year’s, with a large number of X20 units to try hands-on.</description>
+ <link>https://boilingsteam.com/rog-xbox-ally-x20-at-the-tokyo-games-show-2026-improving-further/index.html</link>
+ <pubDate>Mon, 21 Sep 2026 13:42:29 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with Trails in the Sky 2nd Chapter - 2026-09-19 Edition</title>
+ <description>Between 2026-09-12 and 2026-09-19 we selected 14 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. This time Trails in the Sky 2nd Chapter stands out in the list, with a very well executed remake that makes the original look like an amateurish title. It works very well on the Steam Deck as well. Full details below as well as other games we selected:</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-09-19-edition/index.html</link>
+ <pubDate>Sun, 27 Sep 2026 14:51:12 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds, including Beetle Ball and Rogue Blight - 2026-09-09 Edition</title>
+ <description>This article is running a little late because of the Tokyo Games Show preparations that were undergoing over the past few weeks! Between 2026-09-02 and 2026-09-09 there were 83 New Steam games released with Native Linux builds. For reference, during the same time, there were 647 games released for Windows on Steam, so the Linux versions represent about 12.8 % of total released titles. You should definitely not miss Beetle Ball if you liked Rocket League, it seems to be a worthy renewal of the concept now with bugs instead of cars! Another excellent contender for your attention should be Rogue Blight which follows the formula of Slay the Spire very closely yet with a different execution. Full details below!</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-09-09-edition/index.html</link>
+ <pubDate>Sun, 20 Sep 2026 15:37:54 +0000</pubDate>
+</item>
+ <item>
+ <title>Tokyo Game Show 2026: What to Expect?</title>
+ <description>It’s September and as usual we will be covering the Tokyo Games Show later in this week, as it takes place September 17–21, at the Makuhari Messe. This year should be somewhat special with the 30 years anniversary of the show! This makes it one of the longest running video games shows around the world. Many others have stopped midway (ECTS, E3…) and the TGS has had a fairly stable or even increasing attendance over the past few years. So what’s new in this year?</description>
+ <link>https://boilingsteam.com/tokyo-game-show-2026-what-to-expect/index.html</link>
+ <pubDate>Mon, 14 Sep 2026 15:47:27 +0000</pubDate>
+</item>
+ <item>
+ <title>LTT Leaks Steam Frame's First Look Ahead of Schedule: Quick Summary</title>
+ <description>So there was an accidental leak of LTT’s first experience with the Steam Frame, apparently released at the wrong time (wink wink, we know what you guys did there). It was made private again soon after, but not fast enough to avoid copies from circulating. Well, good for everyone who wanted to know more what to expect without waiting further. Since we have had a quick look at this video, here’s what you should know (pending final confirmation of other reviewers, of course). The biggest wow effect of the Steam Frame according to LTT seems to be the elimination of the cables: “my life just went wireless”. He makes that point over and over again in this video.</description>
+ <link>https://boilingsteam.com/ltt-leaks-steam-frames-first-look-ahead-of-schedule/index.html</link>
+ <pubDate>Sun, 13 Sep 2026 12:49:32 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with Valheim 1.0 and Welcome to Elderfield - 2026-09-12 Edition</title>
+ <description>Between 2026-09-05 and 2026-09-12 we selected 13 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. The big news is Valheim coming out of Early Access after years of development and tweaking. I played it quite a bit in coop when it was first released, and it was already a solid game then, so I can only imagine how much it has progressed since then. There’s also the very peculiar Welcome to Elderfield that mixes horror, farming, lofi music and pixel art. What a mix! Full details below.</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-09-12-edition/index.html</link>
+ <pubDate>Sun, 13 Sep 2026 10:20:43 +0000</pubDate>
+</item>
+ <item>
+ <title>OrangePi Zero 3W Review: Tiny Yet Powerful</title>
+ <description>OrangePi has kindly sent us a new board to test, the OrangePi Zero 3W. Our last review with OrangePi hardware was the OrangePi 4 Pro SBC - a powerful, low wattage board, low-cost alternative to the Raspberry Pi 5 (while a little less powerful). This time the Zero 3W sits in a very different category. It’s absolutely tiny, and it’s hard to believe that this thing actually has pretty much the same hardware specs as the larger OrangePi 4 Pro!</description>
+ <link>https://boilingsteam.com/orange-pi-zero-3w-review-tiny-yet-powerful/index.html</link>
+ <pubDate>Sat, 12 Sep 2026 17:07:49 +0000</pubDate>
+</item>
+ <item>
+ <title>STEINS;GATE RE:BOOT Review. Yet Another Remake?</title>
+ <description>It’s going to be somewhat of a long story.</description>
+ <link>https://boilingsteam.com/steins-gate-re-boot-review/index.html</link>
+ <pubDate>Wed, 9 Sep 2026 10:07:23 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with Onimusha and Moonlighter 2 - 2026-09-05 Edition</title>
+ <description>Between 2026-08-29 and 2026-09-05 we selected 10 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. The big game of the past week is Onimusha: Way of the Sword, the long-awaited return the Capcom franchise from the 90s (PS1 players should remember it very well). It’s received the Resident Evil Reboot treatment, and last year I played it at the TGS 2025 and I found it very well done, while the regular enemies were a bit generic. Moonlighter 2 is also out, and while the overall reception is positive, fans of the first opus are divided by the direction taken by this new episode. Full details below!</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-09-05-edition/index.html</link>
+ <pubDate>Sun, 6 Sep 2026 12:12:22 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds, including Dirtnap - 2026-09-02 Edition</title>
+ <description>Between 2026-08-26 and 2026-09-02 there were 110 New Steam games released with Native Linux builds. For reference, during the same time, there were 825 games released for Windows on Steam, so the Linux versions represent about 13.3 % of total released titles. Somewhat of an increasing percentage, some might say… in any case my favorite of the week if Dirtnap, which is essentially Worms in real-time, on steroids, with jetpacks! It has some optimization problems at the moment but once fixed this will be a real blast for everyone. Full details below!</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-09-02-edition/index.html</link>
+ <pubDate>Sat, 5 Sep 2026 17:20:41 +0000</pubDate>
+</item>
+ <item>
+ <title>Security 51: Review</title>
+ <description>Prevent harmful individuals from leaving Area 51 as a security guard in Security 51, a game developed and published by Alawar. It works great with Proton on both Steam Deck (Verified) and on desktop.</description>
+ <link>https://boilingsteam.com/security-51/index.html</link>
+ <pubDate>Sat, 5 Sep 2026 17:36:44 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with Resonance: A Plague Tale Legacy, and Smack Talk - 2026-08-29 Edition</title>
+ <description>Between 2026-08-22 and 2026-08-29 we selected 15 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. A lot of indie titles, like Smack Talk, an multiplayer fighting game where you use your voice to attack your opponents (!), and there’s also the big AAA type of title with Resonance: A Plague Tale Legacy, a prequel to the Plague Tale games. A lot of good stuff packed in a single week! Full details below!</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-08-29-edition/index.html</link>
+ <pubDate>Sun, 30 Aug 2026 17:36:59 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds, with TWIRL and Sensory Overload - 2026-08-26 Edition</title>
+ <description>Between 2026-08-19 and 2026-08-26 there were 131 New Steam games released with Native Linux builds. For reference, during the same time, there were 1051 games released for Windows on Steam, so the Linux versions represent about 12.5 % of total released titles. It’s worth checking T.W.I.R.L., an ASCII-art bullet-hell roguelike where your android companion carries persistent injury and trauma between runs. And there’s SENSORY OVERLOAD, a psychedelic dropper that ADHD and autistic players specifically report as inducing calm and focus despite being visually overwhelming. Full list below!</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-08-26-edition/index.html</link>
+ <pubDate>Sat, 29 Aug 2026 17:35:32 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with How to Fish and Twisted Tower - 2026-08-22 Edition</title>
+ <description>Between 2026-08-15 and 2026-08-22 we selected 18 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. Two highlights for the past week, with How to Fish, a brilliant co-op chaotic that drives immediate fun and has great replay value. And there’s Twister Tower which can best be described as a a retro Bioshock set inside a Carnival. Full details below!</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-08-22-edition/index.html</link>
+ <pubDate>Sun, 23 Aug 2026 16:53:14 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with Servant of the Lake and Sandustry - 2026-08-15 Edition</title>
+ <description>Between 2026-08-08 and 2026-08-15 we selected 6 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. No huge release but a lot of nice smaller games that make it for the end of the summer. I’d like to highlight Servant of the Lake, a new entry in the Rusty Lake series, with great puzzles and packing a good story and upgraded visuals. And there’s also Sandustry that takes the concept of Noita with pixel-based physics and adds automation on top of it. Here’s what we could find:</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-08-15-edition/index.html</link>
+ <pubDate>Sat, 15 Aug 2026 14:19:15 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds, including Sovereign Tower - 2026-08-12 Edition</title>
+ <description>Between 2026-08-05 and 2026-08-12 there were 81 New Steam games released with Native Linux builds. For reference, during the same time, there were 616 games released for Windows on Steam, so the Linux versions represent about 13.1 % of total released titles. This week’s pick is certainly Sovereign Tower since it’s another inventive choose your destiny adventure game where you are in charge of your kingdom. This time, you can backtrack on choices made before to achieve better results. Highly praised by gamers so far. Full list of games worthy of your consideration below!</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-08-12-edition/index.html</link>
+ <pubDate>Thu, 13 Aug 2026 16:40:13 +0000</pubDate>
+</item>
+ <item>
+ <title>Gambonanza: Review</title>
+ <description>There are quite a few games inspired by Chess on Steam these days, most of them trying to turn the traditional 64 square games into something a bit more fun and approachable by adding timers or power-ups, and shit like that. I was caught off guard since I am a regular chess player and I was intrigued by Gambonanza, that takes the familiar chess pieces and their moves and put them in a totally different context with different victory conditions. In each level, you have to capture every single piece on increasingly chaotic boards while managing your boosts, bonuses and pieces that you collect in your reserve. The concept is simple: you’re playing chess, but the board starts tiny (roughly 4×6 tiles), pieces can literally fall off the edges if left unmoved too long (some tiles disappear after a while!), and victory means eliminating every enemy unit rather than checkmating a king.</description>
+ <link>https://boilingsteam.com/gambonanza-review/index.html</link>
+ <pubDate>Thu, 13 Aug 2026 15:15:03 +0000</pubDate>
+</item>
+ <item>
+ <title>CachyOS is King Now, and the Distro World Settles</title>
+ <description>Last time we had our regular checkpoint was in June 2026 and you may recall we observed that CachyOS was not only in the 1st spot on ProtonDB for desktop distros, but kept growing further, eating Arch Linux’s own share. So how have things changed since then? Before we take a look at the chart, the usual disclaimer that you love: - This may not be representative of all types of Linux users. I’m sure this is not what your AWS architect uses on EC2, nor what you installed for your grandmother to avoid being the IT troubleshooter in your family. - This may not be completely representative of all Linux gamers either. But I’d wage this is actually a good predictor where the market is going to shift. We saw first that Manjaro was getting the boot here first, before going under pretty much everywhere.</description>
+ <link>https://boilingsteam.com/cachy-os-is-king-now-and-the-distro-world-settles/index.html</link>
+ <pubDate>Tue, 11 Aug 2026 16:21:06 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with Iron Nest: Heavy Turret Simulator - 2026-08-08 Edition</title>
+ <description>Between 2026-08-01 and 2026-08-08 we selected 8 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. The highlight is Iron Nest, that puts you in the middle of a huge turret capable of firing very large explosives. You get orders, and you need to adjust numerous parameters to hit the target with high accuracy. Very well done and unique in concept. Let’s not forget the new Stardew Valley clone, Fields of Mistria, that we already mentioned in our previous article about recently released games with native builds. Full details below!</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-08-08-edition/index.html</link>
+ <pubDate>Sat, 8 Aug 2026 17:12:03 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds, including Fields of Mistria - 2026-08-05 Edition</title>
+ <description>Between 2026-07-29 and 2026-08-05 there were 138 New Steam games released with Native Linux builds. For reference, during the same time, there were 926 games released for Windows on Steam, so the Linux versions represent about 14.9 % of total released titles. A high percentage, with the spiritual successor of Stardew Valley, Fields of Mistria - which has been very well received so far, apparently superior to its inspiration in almost every aspect. Full details below!</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-08-05-edition/index.html</link>
+ <pubDate>Fri, 7 Aug 2026 17:30:15 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with Sephiria and Kusan City of Wolves - 2026-08-01 Edition</title>
+ <description>Between 2026-07-25 and 2026-08-01 we selected 16 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. A lot of titles in this weekm and I think you should check Sephiria, since it’s an action game that uses inventory management as a puzzle mechanic. It makes you optimize your build instead of simply stacking bonuses and boosts. And it looks very well made all around, too. Another one worth a mention is Kusan City of Wolves which is a new take on the hotline miami genre! Full details below.</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-08-01-edition/index.html</link>
+ <pubDate>Sun, 2 Aug 2026 09:43:50 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds with Dodo Duckie and Tormentum II - 2026-07-29 Edition</title>
+ <description>Between 2026-07-22 and 2026-07-29 there were 147 New Steam games released with Native Linux builds. For reference, during the same time, there were 918 games released for Windows on Steam, so the Linux versions represent about 16 % of total released titles. The highlight from this week is a cute game where you play a duck, Dodo Duckie that mixes 2D and 3D view switched to make you solve puzzles in a clever way. And there’s Tormentum II that lets you explore Giger-inspired nightmares with meaningful choices to make. Full list below!</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-07-29-edition/index.html</link>
+ <pubDate>Fri, 31 Jul 2026 16:51:22 +0000</pubDate>
+</item>
+ <item>
+ <title>The Great Steam Deck Crash of 2026: Community Reactions</title>
+ <description>Our recent article about the Steam Deck sales crash went kind of viral in the past week, and because of that there were long threads of discussions available across Reddit communities (r/linux_gaming, r/pcmasterrace, and r/SteamDeck at least) discussing the situation. I spent a lot of time reading the different takes, and I tought it would be a good idea to capture where people are regarding this matter. So, here’s a summary of the different types of takes.</description>
+ <link>https://boilingsteam.com/community-comments-on-the-great-steam-deck-crash-of-2026-article/index.html</link>
+ <pubDate>Wed, 29 Jul 2026 16:18:46 +0000</pubDate>
+</item>
+ <item>
+ <title>Celestial Return: Review</title>
+ <description>Celestial Return promises a hard-boiled, cyberpunk and cosmic horror game. “Count me in” when I was offered a key by the publisher. But this review would have been cut a lot shorter if I had not waited a couple of weeks after the release. Now the game runs well on Linux and Steam Deck with Proton thanks to some recent updates from the devs. Celestial Return is a visual novel where you follow the footsteps of Howard, once part of an elite force that hunted beings called Abstracts, now just a private investigator. On the left side of the screen you read and interact with the overly descriptive story, and before the updates that would be mostly of what you would see. The game now plays a background video, and show some images as the story progress. They had encoded some videos with shady proprietary H.264 that would either stutter the game, or not load at all. That reminded me of the time I used Windows, and had to install some codec packs to be able to play this kind of stuff. Sadly, the Proton bundled with proprietary stuff did not work for me with this game. So I had to skip the animations, and played with black background most of the game. Because some videos would show, I pondered if the black was a design choice or just a bug. I imagine most of the problems with bugged save games, soft-locks (most of them the workaround was saving and reloading the game), clipped story and options not showing on the story box, and other technical stuff will eventually be solved. So let’s jump to the things that are not so easy to fix.</description>
+ <link>https://boilingsteam.com/celestial-return/index.html</link>
+ <pubDate>Wed, 29 Jul 2026 15:08:32 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with Scrap Mechanic and Dinoblade - 2026-07-25 Edition</title>
+ <description>Between 2026-07-18 and 2026-07-25 we selected 9 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. A few horror games are of note, but the big title in this week is clearly Scrap Mechanic that’s now out of early access with the 1.0 Release. If it’s your first time hearing about it, it’s a multiplayer sandbox adventure game where you build stuff and fight a lot too. I’d like to also point out the release of Dinoblade which is as absurd as the name indicates: you play a dinosaur armed with a huge blade! Full details below.</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-07-25-edition/index.html</link>
+ <pubDate>Sun, 26 Jul 2026 10:11:48 +0000</pubDate>
+</item>
+ <item>
+ <title>Valve Releases Proton 11</title>
+ <description>It’s a piece of news that is a little bit late since we are covering a release that happened a few weeks ago in July 2026, that most people did not probably notice anyway as they were glued to the FIFA world cup. Now we are back in business and catching up on a few important news! The previous Proton release was Proton 10.0-3 back in November 2025, so it’s been more than half a year. So what does this Proton 11 bring on the table?</description>
+ <link>https://boilingsteam.com/valve-releases-proton-11/index.html</link>
+ <pubDate>Sun, 26 Jul 2026 16:04:20 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds, with Database Detective: Minor Crimes Division and Pathogenic - 2026-07-22 Edition</title>
+ <description>Between 2026-07-15 and 2026-07-22 there were 110 New Steam games released with Native Linux builds. For reference, during the same time, there were 770 games released for Windows on Steam, so the Linux versions represent about 14.3 % of total released titles. And it’s not just shovelware, there’s quite a few good title in this past week! I have a soft spot for Database Detective: Minor Crimes Division because it makes you solve crimes using the SQL language! Don’t miss Pathogenic as well where you infect the human body and fight the immune system. Full list below.</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-07-22-edition/index.html</link>
+ <pubDate>Fri, 24 Jul 2026 15:43:23 +0000</pubDate>
+</item>
+ <item>
+ <title>The Great Steam Deck Crash of 2026: How The New Pricing Slashed Demand by 80%</title>
+ <description>Following our recent article estimating the volume of Steam Machines currently sold on the market, I wanted to also go back to another very interesting piece of data and question: has the change of price of the Steam Deck in May 2026 had a big impact on the number of its sales? Not just in value, but in units sold? Turns out, we should be able to answer the question using a similar methodology and the weekly top sellers charts. This chart lists the ranking of all products according to their sales in total dollars, regardless of the software or hardware aspect. Throughout 2025, Valve’s Steam Deck maintained a steady presence in the top five positions of Steam’s Global Weekly Top Sellers chart. Week after week, the SteamOS powered handheld managed to stay around rank #4 or #5, hardly impacted by seasonality. If anything, it was propped up by specific times in the year, such as the pre-christmas season. In early 2026, it suffered some temporary availability issues because of key components preventing its full assembly. It came back at the end of May 2026, with fresh inventory and a fresh (or stinky, depending on your point of view) price as well. On May 27, 2026 Valve announced the pricing adjustment, framed internally as a response to the RAMpocalypse. This was a massive price hike across models, in the +40% range on OLED models, and getting rid of the cheaper LCD version altogether. Valve is not in the charity business anymore. Move away, peasants!</description>
+ <link>https://boilingsteam.com/the-great-steam-deck-volume-crash/index.html</link>
+ <pubDate>Mon, 20 Jul 2026 15:32:26 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck: Awesome week with The Mermaid Mask and Denshattack! - 2026-07-18 Edition</title>
+ <description>Between 2026-07-11 and 2026-07-18 we selected 14 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. Looks like game devs have stopped watching the World Cup as most teams are out and finally decided to ship their games! A LOT of good stuff in this past week - and if I had to pick two, that would be The Mermaid Mask which is an awesome adventure game about solving a crime, and Denshattack! which is a crazy Japanese arcade game where you control a train that gives 90s vibes like very few do. Full list below!</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-07-18-edition/index.html</link>
+ <pubDate>Sun, 19 Jul 2026 14:25:31 +0000</pubDate>
+</item>
+ <item>
+ <title>Steam Machine: Between 12k and 15k Sold per week</title>
+ <description>Valve is a fairly secretive company when it comes to how they perform: they have never published quarterly hardware sales figures for its consumer devices. They don’t track them in press releases, they don’t have earnings calls since they remain a private company, and they don’t treat unit volume as a front and center KPI on the store. There is maybe one exception: a few years back, they did announce that they had sold 500k Steam controllers. That was actually just 10 years ago! At the same time, they do like to share a lot of data. They have hardware surveys, weekly best sellers, and also real-time revenue data: the Global Top Sellers chart. Because that chart ranks products by gross financial throughput rather than unit count, it creates a bias we can exploit to do some napkin math estimations. High-priced hardware requires significantly fewer transactions to occupy a higher chart position, compared to low-priced software or microtransaction-driven titles.</description>
+ <link>https://boilingsteam.com/steam-machine-between-10k-and-15k-sold-per-week/index.html</link>
+ <pubDate>Sat, 18 Jul 2026 11:10:25 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds, including A Game about Chopping Trees - 2026-07-15 Edition</title>
+ <description>Between 2026-07-08 and 2026-07-15 there were 83 New Steam games released with Native Linux builds. For reference, during the same time, there were 664 games released for Windows on Steam, so the Linux versions represent about 12.5 % of total released titles. It’s still summer and there’s not a lot of big games coming out, but there’s one about chopping trees that seems to be quite fun, alright. Full list below!</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-07-15-edition/index.html</link>
+ <pubDate>Thu, 16 Jul 2026 17:46:58 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with Palworld and Cat Mail Co. - 2026-07-11 Edition</title>
+ <description>Between 2026-07-04 and 2026-07-11 we selected 4 newly released games that are rated as Verified or Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. We are still in the middle of summer so don’t expect a lot of big moves. We still get Palworld leaving Early Access with the 1.0, Verified for the Steam Deck. Let’s not forget Cat Mail Co., a game about a cat delivering parcels, with a story told through the packages you deliver. More details below.</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-07-11-edition/index.html</link>
+ <pubDate>Sun, 12 Jul 2026 14:31:42 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds - 2026-07-08 Edition</title>
+ <description>Between 2026-07-01 and 2026-07-08 there were 47 New Steam games released with Native Linux builds. For reference, during the same time, there were 393 games released for Windows on Steam, so the Linux versions represent about 12 % of total released titles. It’s the middle of summer, nobody’s home, and if you are it’s too hot to play next to your PC anyway, unless you live in Kangarooland. A lot of shovelware, very little to talk about. We have Cosmodrill and Xegrader Plus and that’s it! The good thing is that it won’t take you long to go through the list this time.</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-07-08-edition/index.html</link>
+ <pubDate>Thu, 9 Jul 2026 14:09:59 +0000</pubDate>
+</item>
+ <item>
+ <title>Paranormasight: the Sequel's Curse</title>
+ <description>Just a few months back, I was talking with one of my friends about Paranormasight:The Seven Mysteries of Honjo - ecstatic again about how brilliant it was. I was wondering what the developers would be working on afterwards. In the course of our conversation, I however shared one of my deepest concerns: “I sure hope they don’t make a sequel”. In case you are not familiar with Paranormasight (what? living under a rock?), the game is basically a visual novel with branching story elements, where you play different characters across different story paths. It stood out from the rest by a super solid story without hours of fluff, excellent characters and writing, and an execution that has no match (graphics and music). The perfect storm, if you wish. Where was I? Ah yes. back to the story about my friend. A few weeks later after our initial conversation, I get an email from him. With a link? What’s in there? The upcoming release of Paranormasight: The Mermaid’s Curse… I have to admit, it made me feel uneasy about the existence of a sequel. In the end, the TLDR is: it’s not as bad as I feared.</description>
+ <link>https://boilingsteam.com/paranormasight-the-mermaids-curse-review/index.html</link>
+ <pubDate>Thu, 9 Jul 2026 16:18:02 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games with Native Linux Builds, including Nophenia and Bugscraper - 2026-07-01 Edition</title>
+ <description>Between 2026-06-24 and 2026-07-01 there were 108 New Steam games released with Native Linux builds. For reference, during the same time, there were 823 games released for Windows on Steam, so the Linux versions represent about 13.1 % of total released titles. In that week there’s not a lot of stuff to keep, but Nophenia is a cool walking simulator inside dreams. I also like the retro arcade gameplay of Buscraper. Here’s the whole list.</description>
+ <link>https://boilingsteam.com/new-steam-games-with-native-linux-builds-2026-07-01-edition/index.html</link>
+ <pubDate>Wed, 8 Jul 2026 16:08:00 +0000</pubDate>
+</item>
+ <item>
+ <title>New Steam Games Playable on the Steam Deck, with Feed the Pit - 2026-07-05 Edition</title>
+ <description>Between 2026-06-28 and 2026-07-05 we selected 2 newly released games that are rated as Playable on the Steam Deck, and meeting specific criteria in terms of user ratings. That’s a very low number, but one of them, Feed the Pit, seems to be a very well made indie horror game. Here we go with more details:</description>
+ <link>https://boilingsteam.com/new-steam-games-playable-on-the-steam-deck-2026-07-06-edition/index.html</link>
+ <pubDate>Mon, 6 Jul 2026 15:27:56 +0000</pubDate>
+</item>
+ <item>
+ <title>Huntdown: Overtime - Review</title>
+ <description>Ok now this is a sequel to Huntdown, that I already had in my library but barely played before. I guess I have to start with the sequel! Huntdown overtime puts you in the shoes or some kind of super bionic cop, who’s been resurrected to fight crime and kill bad guys. Any resemblance to Robocop or other 80s movies is NOT a coincidence, the game is constantly making references to 80s era.</description>
+ <link>https://boilingsteam.com/huntdown-overtime-review/index.html</link>
+ <pubDate>Sun, 5 Jul 2026 15:53:57 +0000</pubDate>
+</item>
+    
+</channel>
+</rss>

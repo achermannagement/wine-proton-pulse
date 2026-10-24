@@ -1,0 +1,265 @@
+<?xml version="1.0"?>
+	<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	 <channel>
+		<title>Phoronix</title>
+		<link>https://www.phoronix.com/</link>
+		<description>Linux Hardware Reviews, Performance Benchmarks &amp; Open-Source / Free Software News</description>
+		<language>en-us</language>
+	  <item>
+   <title>Linux 7.4 Merges Slab Updates With A Nice Performance Improvement</title>
+   <link>https://www.phoronix.com/news/Linux-7.4-Slab-Updates</link>
+   <guid>https://www.phoronix.com/news/Linux-7.4-Slab-Updates</guid>
+   <description>The slab pull request was just merged for Linux 7.4. For end users nothing too incredibly exciting but there is one change that does yield a 24% throughput improvement in a benchmark exercising the kernel's memory management subsystem...</description>
+   <pubDate>Fri, 23 Oct 2026 16:27:50 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>HPFS Is The Latest File-System Facing Possible Removal On Linux</title>
+   <link>https://www.phoronix.com/news/HPFS-For-Linux-Removal</link>
+   <guid>https://www.phoronix.com/news/HPFS-For-Linux-Removal</guid>
+   <description>HPFS is the latest file-system driver for the Linux kernel facing possible removal. The High Performance File-System (HPFS) was developed by IBM and Microsoft for OS/2...</description>
+   <pubDate>Fri, 23 Oct 2026 12:27:08 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Borealis: Asahi Linux&#039;s Apple Silicon Mesa Vulkan Driver Forked For Vibe Coding</title>
+   <link>https://www.phoronix.com/news/Borealis-Vulkan-Driver</link>
+   <guid>https://www.phoronix.com/news/Borealis-Vulkan-Driver</guid>
+   <description>Seeing a Vulkan API driver pull request this morning for introducing a new "Borealis" driver ID caught me by surprise as it was the first time I was hearing of such a driver. It turns out to be a fork of the Asahi Linux project's HoneyKrisp driver in Mesa for Apple Silicon hardware...</description>
+   <pubDate>Fri, 23 Oct 2026 12:00:38 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>oneDNN 3.14 Released With ACE Support, Initial AMD Zen Optimizations</title>
+   <link>https://www.phoronix.com/news/oneDNN-3.14-Released</link>
+   <guid>https://www.phoronix.com/news/oneDNN-3.14-Released</guid>
+   <description>The UXL Foundation announced today the release of oneDNN 3.14 as the latest feature update to this library providing optimized deep learning operations for software like PyTorch, TensorFlow, OpenVINO, and others. While oneDNN began as an Intel software project, making this version notable is beginning to see AMD Zen CPU optimizations land in oneDNN proper...</description>
+   <pubDate>Fri, 23 Oct 2026 10:12:33 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Linux 7.4 Power Management Preps For AMD Ryzen Zen 6 &amp; Intel Rugged Panther Lake</title>
+   <link>https://www.phoronix.com/news/Linux-7.4-Power-Management</link>
+   <guid>https://www.phoronix.com/news/Linux-7.4-Power-Management</guid>
+   <description>The power management subsystem updates were merged this week for Linux 7.4 along with the related ACPI and thermal control updates too...</description>
+   <pubDate>Fri, 23 Oct 2026 09:51:29 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>OpenSSL 4.1 Released With More AVX-512 Optimizations</title>
+   <link>https://www.phoronix.com/news/OpenSSL-4.1-Released</link>
+   <guid>https://www.phoronix.com/news/OpenSSL-4.1-Released</guid>
+   <description>OpenSSL 4.1 stable is out today with new AVX-512 optimizations, other performance improvements, and finally retiring Windows on Itanium and Windows CE support...</description>
+   <pubDate>Fri, 23 Oct 2026 09:11:40 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Linux 7.4 Brings Hibernation Improvement For Helping Meet Energy Certifications</title>
+   <link>https://www.phoronix.com/news/Linux-7.4-PCI</link>
+   <guid>https://www.phoronix.com/news/Linux-7.4-PCI</guid>
+   <description>The PCI/PCIe subsystem improvements have been merged for the ongoing Linux 7.4 merge window...</description>
+   <pubDate>Fri, 23 Oct 2026 08:44:01 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Vulkan 1.4.366 Released With SMPTE ST 2094-50 HDR Support</title>
+   <link>https://www.phoronix.com/news/Vulkan-1.4.366</link>
+   <guid>https://www.phoronix.com/news/Vulkan-1.4.366</guid>
+   <description>Vulkan 1.4.366 is out and representing the past two weeks of specification fixes, clarifications, and one new Vulkan API extension...</description>
+   <pubDate>Fri, 23 Oct 2026 07:45:54 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>FFmpeg 9.1 Preps For Release With APV Vulkan Encoder, NVIDIA Optical Flow FRUC</title>
+   <link>https://www.phoronix.com/news/FFmpeg-9.1-Releasing</link>
+   <guid>https://www.phoronix.com/news/FFmpeg-9.1-Releasing</guid>
+   <description>The release dance is underway for FFmpeg 9.1 as the newest feature release for this widely-used open-source multimedia library...</description>
+   <pubDate>Fri, 23 Oct 2026 06:20:46 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Linux 7.4 Introduces New Driver For The Nintendo Switch 2 Controllers - Thanks To Valve</title>
+   <link>https://www.phoronix.com/news/Linux-7.4-HID</link>
+   <guid>https://www.phoronix.com/news/Linux-7.4-HID</guid>
+   <description>The HID subsystem updates have been merged for the Linux 7.4 kernel that included a few new drivers...</description>
+   <pubDate>Fri, 23 Oct 2026 06:09:10 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>LibreSSL 4.4 Released With Faster SHA3, Bug Fixes</title>
+   <link>https://www.phoronix.com/news/LibreSSL-4.4-Released</link>
+   <guid>https://www.phoronix.com/news/LibreSSL-4.4-Released</guid>
+   <description>LibreSSL 4.4 released on Thursday as the newest release of this decade-old OpenSSL fork maintained by OpenBSD developers...</description>
+   <pubDate>Fri, 23 Oct 2026 05:55:46 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Linux 7.4 Fixes AMD CPU TLB Size Reporting For Zen 5 &amp; Newer</title>
+   <link>https://www.phoronix.com/news/Linux-7.4-Fix-Zen-5-TLB-Size</link>
+   <guid>https://www.phoronix.com/news/Linux-7.4-Fix-Zen-5-TLB-Size</guid>
+   <description>As a follow-up to the article in September about a Linux patch for fixing under-reported AMD Zen 5 TLB sizes, that work is now merged for the Linux 7.4 kernel...</description>
+   <pubDate>Fri, 23 Oct 2026 05:47:39 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Linux 7.4 Workqueue Changes Bring A &quot;10 To 100 Times Faster&quot; Optimization</title>
+   <link>https://www.phoronix.com/news/Linux-7.4-Workqueue</link>
+   <guid>https://www.phoronix.com/news/Linux-7.4-Workqueue</guid>
+   <description>Adding to all the exciting performance optimizations and other improvements for Linux 7.4 is an exciting workqueue improvement. It's not too often getting to talk about "10 to 100 times faster" software improvements...</description>
+   <pubDate>Thu, 22 Oct 2026 20:38:20 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Fedora 45 Hits A Second NO-GO: Not Releasing Until November</title>
+   <link>https://www.phoronix.com/news/Fedora-45-Second-NO-GO</link>
+   <guid>https://www.phoronix.com/news/Fedora-45-Second-NO-GO</guid>
+   <description>Fedora 45 wasn't released this week as its ideal early release target due to not having a release candidate build in time for last week's Go/No-Go meeting. At today's Go/No-Go meeting, Fedora 45 was delayed by at least one more week due to open blocker bugs...</description>
+   <pubDate>Thu, 22 Oct 2026 17:20:50 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>AI Helping To Improve Linux&#039;s AMD Zen CPU Microarchitecture Detection</title>
+   <link>https://www.phoronix.com/news/Linux-AMD-Zen-AI-Detection</link>
+   <guid>https://www.phoronix.com/news/Linux-AMD-Zen-AI-Detection</guid>
+   <description>A request for comments (RFC) was sent out last night on the Linux kernel mailing list in seeking to clean-up the AMD Zen microarchitecture detection within the kernel. This is for enhancing the kernel where there are code paths specific to a certain generation of AMD Zen processors or select generations such as Zen 3 through Zen 5 CPUs. AI was leveraged in helping to clean-up this AMD Zen code in the Linux kernel...</description>
+   <pubDate>Thu, 22 Oct 2026 15:21:54 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Modular&#039;s MAX Source Code Now Fully Opened, Under New MAX License</title>
+   <link>https://www.phoronix.com/news/Modular-MAX-Complete-Open</link>
+   <guid>https://www.phoronix.com/news/Modular-MAX-Complete-Open</guid>
+   <description>Back in August Modular's Mojo language was open-sourced following the acquisition of Chris Lattner's company by Qualcomm. The latest achievement now out of the company is their MAX software being fully opened up with the entire source tree available...</description>
+   <pubDate>Thu, 22 Oct 2026 14:32:34 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Linux 7.4 Improves Scheduling Latency For Short-Slice Tasks, NVIDIA Vera SMT Preference</title>
+   <link>https://www.phoronix.com/news/Linux-7.4</link>
+   <guid>https://www.phoronix.com/news/Linux-7.4</guid>
+   <description>The scheduler updates have been merged for the in-development Linux 7.4 kernel to deliver several nice scheduling enhancements...</description>
+   <pubDate>Thu, 22 Oct 2026 11:42:11 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>x86 Kernel Shadow Stacks Being Worked On For Linux As Powerful Control Flow Protection</title>
+   <link>https://www.phoronix.com/news/Linux-Kernel-Shadow-Stacks</link>
+   <guid>https://www.phoronix.com/news/Linux-Kernel-Shadow-Stacks</guid>
+   <description>Linux user-space for several years had shadow stack support for hardware-enforced control-flow enforcement in defending against return oriented programming (ROP) attacks. Intel Tigerlake and newer CPUs or AMD Zen 3 and newer have the necessary hardware shadow stacks support. Shadow stacks have been effective for helping user-space software fend ROP attacks while now there is new work toward bringing shadow stack support for kernel space on Linux...</description>
+   <pubDate>Thu, 22 Oct 2026 09:22:56 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Mesa Loosens Rules Around AI Agents For Code Comments / Commit Messages</title>
+   <link>https://www.phoronix.com/news/Mesa-Loosens-AGENTS-MD</link>
+   <guid>https://www.phoronix.com/news/Mesa-Loosens-AGENTS-MD</guid>
+   <description>The Mesa 3D graphics driver project has loosened its rules laid out in their AGENTS.md for AI agents to permit AI/LLM assistance in generating code comments and commit/patch messages, as long as a human is ultimately reviewing/editing it in the end...</description>
+   <pubDate>Thu, 22 Oct 2026 08:03:30 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Myrlyn 1.1 Released For SUSE/openSUSE GUI Package Manager</title>
+   <link>https://www.phoronix.com/news/Myrlyn-1.1-Released</link>
+   <guid>https://www.phoronix.com/news/Myrlyn-1.1-Released</guid>
+   <description>Myrlyn, the package manager GUI that began as YQPkg during a SUSE Hack Week and has evolved quite well, is out with version 1.1 as the first new feature update since the beginning of the year...</description>
+   <pubDate>Thu, 22 Oct 2026 07:47:43 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Mesa RADV Change Satisfies More Steam Play Games On Aging AMD GFX8 GPUs</title>
+   <link>https://www.phoronix.com/news/Mesa-RADV-GFX8-FP16-Gaming</link>
+   <guid>https://www.phoronix.com/news/Mesa-RADV-GFX8-FP16-Gaming</guid>
+   <description>Valve landed a patch in Mesa 27.0 and to be back-ported to current Mesa stable series to satisfy more games running under Steam Play with VKD3D-Proton for working on AMD GFX8 GPUs like Polaris...</description>
+   <pubDate>Thu, 22 Oct 2026 06:30:00 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Several Linux Kernel Vulnerabilities Accidentally Posted To Public Kernel Mailing List</title>
+   <link>https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities</link>
+   <guid>https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities</guid>
+   <description>Seemingly as an accident, overnight several new Linux kernel vulnerability reports were posted to the public Linux kernel mailing list rather than the private security mailing list. The vulnerabilities have yet to be patched on mainline but at least in some cases there are patches undergoing testing or queued in "-next" branches. The CVSS scores are as high as 9.0...</description>
+   <pubDate>Thu, 22 Oct 2026 06:05:53 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Linux 7.4 Adapts AMD Zen 6 For Less Costly CPU Security Mitigation</title>
+   <link>https://www.phoronix.com/news/AMD-Zen-6-BTB-Linux-7.4-Merged</link>
+   <guid>https://www.phoronix.com/news/AMD-Zen-6-BTB-Linux-7.4-Merged</guid>
+   <description>The x86/bugs pull request was merged this week for the Linux 7.4 kernel. Most notable here is adjusting the CPU security mitigations for AMD Zen 6 processors...</description>
+   <pubDate>Thu, 22 Oct 2026 05:40:39 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Linux 7.4 Begins Landing Patches To Speed Up The Kernel Build Process</title>
+   <link>https://www.phoronix.com/news/Linux-7.4-Kbuild</link>
+   <guid>https://www.phoronix.com/news/Linux-7.4-Kbuild</guid>
+   <description>There are notable patches by Arm engineer Lorenzo Stoakes that have begun landing in Linux 7.4 for speeding up the Linux kernel build process. This work can provide some significant reductions in the Linux kernel build time...</description>
+   <pubDate>Wed, 21 Oct 2026 20:52:38 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Linus Torvalds Eliminates Unsafe __get_user() &amp; __put_user() Functions In Linux 7.4</title>
+   <link>https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux</link>
+   <guid>https://www.phoronix.com/news/Linus-Kills-Get-Put-User-Linux</guid>
+   <description>Linus Torvalds continues with his recent uptick in kernel patches himself, assisted in part by AI with Claude Code. Merged today was removing the historical and unsafe __get_user() and __put_user() kernel functions...</description>
+   <pubDate>Wed, 21 Oct 2026 17:11:58 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Linux 7.4 Kernel Crypto Library Enjoying Optimized AES Implementations On x86 &amp; RISC-V</title>
+   <link>https://www.phoronix.com/news/Linux-7.4-Crypto-Library</link>
+   <guid>https://www.phoronix.com/news/Linux-7.4-Crypto-Library</guid>
+   <description>The latest Linux kernel cryptographic subsystem performance work carried out by Google engineer Eric Biggers is migrating x86/x86_64 and RISC-V optimized implementations of different AES modes into the lib/crypto kernel crypto library to enjoy faster performance there...</description>
+   <pubDate>Wed, 21 Oct 2026 16:11:03 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Snapdragon X2 Performance On Linux Exceeding Expectations In Initial Benchmarks</title>
+   <link>https://www.phoronix.com/review/snapdragon-x2-linux</link>
+   <guid>https://www.phoronix.com/review/snapdragon-x2-linux</guid>
+   <description>For your viewing pleasure today are the first Linux benchmarks of the Qualcomm Snapdragon X2 Elite Extreme on Linux using the new Ubuntu 26.10 X1E Concept ISO for Snapdragon X laptop support on Linux. The Snapdragon X2 Elite Extreme flagship SoC is tested within the ASUS Zenbook A16 UX3607OA laptop.</description>
+   <pubDate>Wed, 21 Oct 2026 10:50:41 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>PHP Updates Released For Two Critical Code Execution Vulnerabilities</title>
+   <link>https://www.phoronix.com/news/PHP-New-Critical-CVEs-October</link>
+   <guid>https://www.phoronix.com/news/PHP-New-Critical-CVEs-October</guid>
+   <description>PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 were just released to fix two critical vulnerabilities that can allow for unauthenticated remote code execution. Server administrators are advised to update immediately...</description>
+   <pubDate>Wed, 21 Oct 2026 09:43:31 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>AMD Working On Ryzen Overclocking Driver For Linux</title>
+   <link>https://www.phoronix.com/news/AMD-AOD-Overclocking-Linux</link>
+   <guid>https://www.phoronix.com/news/AMD-AOD-Overclocking-Linux</guid>
+   <description>AMD recently published patches for the Linux kernel to implement AOD, an AMD Overclocking driver for Ryzen processors. Linux enthusiasts have long sought an official AMD Ryzen CPU overclocking driver for Linux akin to Ryzen Master on Windows and it's finally coming, at least from the kernel driver perspective...</description>
+   <pubDate>Wed, 21 Oct 2026 08:24:13 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Linux 7.4 To Close Files Synchronously For close_range, exec &amp; exit</title>
+   <link>https://www.phoronix.com/news/Linux-7.4-Sync-Close-Files</link>
+   <guid>https://www.phoronix.com/news/Linux-7.4-Sync-Close-Files</guid>
+   <description>Of the many VFS changes to be merged for Linux 7.4 is now closing files synchrously for close_range, exec, and exit calls. In turn when needing to close many file descriptors this provides for much lower latency than the status quo...</description>
+   <pubDate>Wed, 21 Oct 2026 07:55:42 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Fwupd Working Toward Proper Android Integration</title>
+   <link>https://www.phoronix.com/news/Fwupd-To-Android-Integration</link>
+   <guid>https://www.phoronix.com/news/Fwupd-To-Android-Integration</guid>
+   <description>Google Chromebooks already have a mandate for nice Fwupd support with the Linux Vendor Firmware (LVFS) while now there is work on improving the Android integration for Fwupd/LVFS...</description>
+   <pubDate>Wed, 21 Oct 2026 06:16:13 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+  <item>
+   <title>Intel Core Ultra 9 Arrow Lake On Star Labs StarFighter Shows Nice Gains On Ubuntu 26.10</title>
+   <link>https://www.phoronix.com/review/ubuntu-2610-arrow-lake</link>
+   <guid>https://www.phoronix.com/review/ubuntu-2610-arrow-lake</guid>
+   <description>For those running a Star Labs StarFighter Ultra or other Intel Core Ultra Arrow Lake laptop, the recent Ubuntu 26.10 release is providing some nice performance gains over the Ubuntu 26.04 LTS release. Here is a look at how Ubuntu 26.04 LTS vs. Ubuntu 26.10 performs with the Intel Core Ultra 9 285H over dozens of different benchmarks.</description>
+   <pubDate>Tue, 20 Oct 2026 10:25:12 -0400</pubDate>
+   <dc:creator>Michael Larabel</dc:creator>
+  </item>
+</channel>
+	</rss>

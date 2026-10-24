@@ -1,0 +1,120 @@
+{
+  "top_sellers": {
+    "items": [
+      {
+        "id": 1245620,
+        "type": "app",
+        "name": "ELDEN RING",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1790290043",
+        "linux_available": false,
+        "windows_available": true,
+        "discounted": false,
+        "final_price": 0,
+        "currency": "USD"
+      },
+      {
+        "id": 730,
+        "type": "app",
+        "name": "Counter-Strike 2",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1791824795",
+        "linux_available": true,
+        "windows_available": true,
+        "discounted": false,
+        "final_price": 0,
+        "currency": "USD"
+      },
+      {
+        "id": 553850,
+        "type": "app",
+        "name": "HELLDIVERS\u2122 2",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/850e2f9e5bb15c5706bb9a1edc832f4f782e8be5/header.jpg?t=1792487611",
+        "linux_available": false,
+        "windows_available": true,
+        "discounted": false,
+        "final_price": 0,
+        "currency": "USD"
+      },
+      {
+        "id": 271590,
+        "type": "app",
+        "name": "Grand Theft Auto V Legacy",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725",
+        "linux_available": false,
+        "windows_available": true,
+        "discounted": false,
+        "final_price": 0,
+        "currency": "USD"
+      },
+      {
+        "id": 570,
+        "type": "app",
+        "name": "Dota 2",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1791407503",
+        "linux_available": true,
+        "windows_available": true,
+        "discounted": false,
+        "final_price": 0,
+        "currency": "USD"
+      }
+    ]
+  },
+  "new_releases": {
+    "items": [
+      {
+        "id": 252490,
+        "type": "app",
+        "name": "Rust",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
+        "linux_available": false,
+        "windows_available": true,
+        "discounted": false,
+        "final_price": 0,
+        "currency": "USD"
+      },
+      {
+        "id": 1085660,
+        "type": "app",
+        "name": "Destiny 2",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781815889",
+        "linux_available": false,
+        "windows_available": true,
+        "discounted": false,
+        "final_price": 0,
+        "currency": "USD"
+      },
+      {
+        "id": 381210,
+        "type": "app",
+        "name": "Dead by Daylight",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/23fed9f741423413769ad1617e41519d1a466cdc/header_alt_assets_10.jpg?t=1791302579",
+        "linux_available": false,
+        "windows_available": true,
+        "discounted": false,
+        "final_price": 0,
+        "currency": "USD"
+      },
+      {
+        "id": 230410,
+        "type": "app",
+        "name": "Warframe",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230410/1a3e7c2a05ce4e5cad5ac4c7e858cf5b0934704e/header.jpg?t=1792613117",
+        "linux_available": false,
+        "windows_available": true,
+        "discounted": false,
+        "final_price": 0,
+        "currency": "USD"
+      },
+      {
+        "id": 1091500,
+        "type": "app",
+        "name": "Cyberpunk 2077",
+        "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1792682505",
+        "linux_available": false,
+        "windows_available": true,
+        "discounted": false,
+        "final_price": 0,
+        "currency": "USD"
+      }
+    ]
+  }
+}

@@ -1,0 +1,594 @@
+[
+  {
+    "url": "",
+    "name": "Halo: The Master Chief Collection",
+    "logo": "",
+    "native": false,
+    "status": "Supported",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "notes": [
+      [
+        "All-modes enabled with minor caveats",
+        "https://www.gamingonlinux.com/2023/04/halo-the-master-chief-collection-gets-steam-deck-support/"
+      ],
+      [
+        "Singleplayer, co-op, and custom matches work",
+        "https://www.protondb.com/app/976730#s1M6yjsTt"
+      ]
+    ],
+    "updates": [
+      {
+        "name": "Tried to enable EAC",
+        "date": "Apr 12, 2022, 8:10 AM GMT+2",
+        "reference": "https://www.xda-developers.com/halo-mcc-broken-steam-deck/"
+      },
+      {
+        "name": "Updated Linux EAC Files",
+        "date": "Aug 31, 2022, 17:00:12 UTC",
+        "reference": "https://steamdb.info/patchnotes/9367265/"
+      },
+      {
+        "name": "Still actively working on it",
+        "date": "Dec 15, 2022, 4:15 PM GMT+1",
+        "reference": "https://www.theverge.com/23499215/valve-steam-deck-interview-late-2022"
+      },
+      {
+        "name": "Steam Deck Support",
+        "date": "Apr 6, 2023, 8:00 PM UTC",
+        "reference": "https://support.halowaypoint.com/hc/en-us/articles/14589112499348"
+      }
+    ],
+    "storeIds": {
+      "steam": "976730"
+    },
+    "slug": "halo-the-master-chief-collection",
+    "dateChanged": "2024-01-19T04:40:56.000Z"
+  },
+  {
+    "url": "https://www.fortnite.com/",
+    "name": "Fortnite",
+    "logo": "",
+    "native": false,
+    "status": "Denied",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "notes": [
+      [
+        "Works on Xbox-Cloud",
+        "https://news.xbox.com/en-us/2022/05/05/play-fortnite-with-xbox-cloud-gaming-for-free/"
+      ]
+    ],
+    "updates": [
+      {
+        "name": "Not confident in anti-cheat",
+        "date": "Feb 07, 2022, 6:59 AM GMT+2",
+        "reference": "https://twitter.com/TimSweeneyEpic/status/1490565925648715781"
+      },
+      {
+        "name": "Removed Hyperion",
+        "date": "Nov 1, 2022, 6:43 PM GMT+1",
+        "reference": "https://github.com/Starz0r/AreWeAntiCheatYet/issues/918"
+      },
+      {
+        "name": "Was running for a short period of time",
+        "date": "Nov 2, 2022, 8:04 AM GMT+1",
+        "reference": "https://github.com/Starz0r/AreWeAntiCheatYet/issues/918#issuecomment-1299673303"
+      },
+      {
+        "name": "Removed BattlEye",
+        "date": "Jun 11, 2024, 5:34 PM GMT+1",
+        "reference": "https://x.com/ShiinaBR/status/1800567329870537171"
+      }
+    ],
+    "storeIds": {
+      "epic": {
+        "namespace": "fn",
+        "slug": "fortnite"
+      }
+    },
+    "slug": "fortnite",
+    "dateChanged": "2024-10-04T17:23:46.000Z"
+  },
+  {
+    "url": "https://www.ea.com/games/apex-legends",
+    "name": "Apex Legends",
+    "logo": "",
+    "native": false,
+    "status": "Denied",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat",
+      "Hyperion"
+    ],
+    "notes": [],
+    "updates": [
+      {
+        "name": "Enabled Linux support shortly after SteamDeck launch",
+        "date": "2022-03-01T18:00:27+00:00",
+        "reference": "https://steamdb.info/patchnotes/8270674/"
+      },
+      {
+        "name": "Linux support disabled",
+        "date": "Oct 31, 2024, 4:07 PM UTC",
+        "reference": "https://x.com/PlayApex/status/1852019667315102151"
+      }
+    ],
+    "storeIds": {
+      "steam": "1172470"
+    },
+    "slug": "apex-legends",
+    "dateChanged": "2024-10-31T18:29:00.000Z"
+  },
+  {
+    "url": "http://www.destinythegame.com/",
+    "name": "Destiny 2",
+    "logo": "",
+    "native": false,
+    "status": "Denied",
+    "reference": "https://help.bungie.net/hc/en-us/articles/360049024592-Destiny-2-Steam-Guide#steam-deck-and-destiny-2-0-3",
+    "anticheats": [
+      "BattlEye"
+    ],
+    "notes": [
+      [
+        "Show your support!",
+        "https://www.gamingonlinux.com/2022/10/go-tell-bungie-you-want-destiny-2-on-steam-deck-linux/"
+      ]
+    ],
+    "updates": [
+      {
+        "name": "Destiny 2 is not supported for play on the Steam Deck or on any system utilizing Steam Play's Proton",
+        "date": "Mar 02, 2022, 12:10 AM UTC",
+        "reference": "https://www.gamingonlinux.com/2022/03/bungie-say-a-big-fat-no-to-proton-and-steam-deck-for-destiny-2/"
+      }
+    ],
+    "storeIds": {
+      "steam": "1085660",
+      "epic": {
+        "namespace": "428115def4ca4deea9d69c99c5a5a99e",
+        "slug": "destiny-2"
+      }
+    },
+    "slug": "destiny-2",
+    "dateChanged": "2024-01-19T04:40:56.000Z"
+  },
+  {
+    "url": "https://www.bandainamcoent.com/games/elden-ring",
+    "name": "Elden Ring",
+    "logo": "",
+    "native": false,
+    "status": "Supported",
+    "reference": "https://www.forbes.com/sites/jasonevangelho/2022/02/27/yes-elden-ring-is-perfectly-playable-on-linux-including-online-features/?sh=43f5085d1aaf",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "notes": [
+      [
+        "Game may not work out of the box unless you have purchased the DLC, Shadow of the Erdtree.",
+        null
+      ]
+    ],
+    "updates": [],
+    "storeIds": {
+      "steam": "1245620"
+    },
+    "slug": "elden-ring",
+    "dateChanged": "2024-09-08T21:25:56.890Z"
+  },
+  {
+    "url": "",
+    "name": "Grand Theft Auto V",
+    "logo": "",
+    "status": "Denied",
+    "native": false,
+    "reference": "",
+    "anticheats": [
+      "BattlEye"
+    ],
+    "notes": [],
+    "updates": [
+      {
+        "name": "BattlEye added",
+        "date": "Tue Sep 17 2024 09:35:47 UTC",
+        "reference": "https://support.rockstargames.com/articles/1nenwhZlVrJY6CTFeSS2Fx/grand-theft-auto-online-battleye-faq"
+      }
+    ],
+    "storeIds": {
+      "steam": "271590",
+      "epic": {
+        "namespace": "0584d2013f0149a791e7b9bad0eec102",
+        "slug": "grand-theft-auto-v"
+      }
+    },
+    "slug": "grand-theft-auto-v",
+    "dateChanged": "2025-08-05T06:24:56.000Z"
+  },
+  {
+    "url": "https://www.counter-strike.net/cs2",
+    "slug": "cstrike2",
+    "name": "Counter-Strike 2",
+    "logo": "",
+    "native": true,
+    "status": "Supported",
+    "reference": "",
+    "anticheats": [
+      "VAC"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {},
+    "dateChanged": "2024-01-19T04:40:56.000Z"
+  },
+  {
+    "url": "",
+    "name": "Warframe",
+    "logo": "",
+    "native": false,
+    "status": "Supported",
+    "reference": "https://www.protondb.com/app/230410",
+    "anticheats": [
+      "Unknown (Custom)"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {
+      "steam": "230410",
+      "epic": {
+        "namespace": "244aaaa06bfa49d088205b13b9d2d115",
+        "slug": "warframe"
+      }
+    },
+    "slug": "warframe",
+    "dateChanged": "2024-01-19T04:40:56.000Z"
+  },
+  {
+    "url": "",
+    "slug": "helldivers-2",
+    "name": "Helldivers 2",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "nProtect GameGuard"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {
+      "steam": "553850"
+    },
+    "dateChanged": "2024-02-11T02:53:16.080Z"
+  },
+  {
+    "url": "https://playvalorant.com",
+    "name": "Valorant",
+    "logo": "",
+    "native": false,
+    "status": "Denied",
+    "reference": "https://playvalorant.com/en-gb/specs/",
+    "anticheats": [
+      "Vanguard"
+    ],
+    "notes": [],
+    "updates": [
+      {
+        "name": "Vanguard developer claims Linux has \"too much attack surface\".",
+        "date": "Fri, 26 Jan 2024 01:27:06 GMT",
+        "reference": "https://github.com/AreWeAntiCheatYet/AreWeAntiCheatYet/assets/33342705/266b364f-8964-4ae2-9cc4-58e2fd5f9947"
+      }
+    ],
+    "storeIds": {
+      "epic": {
+        "namespace": "cbd5b3d310a54b12bf3fe8c41994174f",
+        "slug": "valorant"
+      }
+    },
+    "slug": "valorant",
+    "dateChanged": "2024-09-02T22:22:14.140Z"
+  },
+  {
+    "url": "https://leagueoflegends.com",
+    "name": "League of Legends",
+    "logo": "",
+    "native": false,
+    "status": "Denied",
+    "reference": "https://github.com/AreWeAntiCheatYet/AreWeAntiCheatYet/assets/33342705/266b364f-8964-4ae2-9cc4-58e2fd5f9947",
+    "anticheats": [
+      "Vanguard"
+    ],
+    "notes": [
+      [
+        "Possibly playable through a macOS VM",
+        null
+      ]
+    ],
+    "updates": [],
+    "storeIds": {
+      "epic": {
+        "namespace": "24b9b5e323bc40eea252a10cdd3b2f10",
+        "slug": "league-of-legends"
+      }
+    },
+    "slug": "league-of-legends",
+    "dateChanged": "2024-09-16T22:37:00.936Z"
+  },
+  {
+    "url": "https://www.dota2.com",
+    "name": "DotA 2",
+    "logo": "",
+    "native": true,
+    "status": "Supported",
+    "reference": "",
+    "anticheats": [
+      "VAC"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {
+      "steam": "570"
+    },
+    "slug": "dota-2",
+    "dateChanged": "2024-10-07T22:48:08.458Z"
+  },
+  {
+    "url": "https://rust.facepunch.com/",
+    "name": "Rust",
+    "logo": "",
+    "native": false,
+    "status": "Denied",
+    "reference": "https://www.gamingonlinux.com/2022/10/facepunch-put-out-a-fresh-statement-on-rust-for-steam-deck-linux/",
+    "anticheats": [
+      "Easy Anti-Cheat",
+      "VAC"
+    ],
+    "notes": [],
+    "updates": [
+      {
+        "name": "Working with EAC",
+        "date": "Tue Jul 27 2021 06:07:00 GMT+0000",
+        "reference": "https://www.gamingonlinux.com/2021/07/garry-newman-of-facepunch-mentions-working-with-eac-for-rust-on-linux-with-proton/"
+      },
+      {
+        "name": "May be ready in a month!",
+        "date": "Mon May 30 2022 01:26:00 GMT+0200",
+        "reference": "https://twitter.com/garrynewman/status/1531235676653510657"
+      },
+      {
+        "name": "sooo... any updates? - Tomorrow",
+        "date": "Tue Jun 28 2022 15:20:00 GMT+0200",
+        "reference": "https://twitter.com/garrynewman/status/1541773484015161347"
+      },
+      {
+        "name": "Client & Server Update Postponed",
+        "date": "Tue Jun 29 2022 10:55:00 GMT+0200",
+        "reference": "https://twitter.com/garrynewman/status/1541773484015161347"
+      },
+      {
+        "name": "Problems with update to EOS SDK",
+        "date": "Sun Jul 24 2022 09:01:00 GMT+0200",
+        "reference": "https://twitter.com/garrynewman/status/1551100275884171270"
+      },
+      {
+        "name": "Well, maybe no support for Linux after all",
+        "date": "Sep 26, 2022, 8:29 PM GMT+2",
+        "reference": "https://twitter.com/garrynewman/status/1574466250167787520"
+      }
+    ],
+    "storeIds": {
+      "steam": "252490"
+    },
+    "slug": "rust",
+    "dateChanged": "2024-08-11T23:02:07.337Z"
+  },
+  {
+    "url": "https://deadbydaylight.com/",
+    "name": "Dead By Daylight",
+    "logo": "",
+    "native": false,
+    "status": "Supported",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "notes": [
+      [
+        "Enabled on Steam and Epic Games Store.",
+        "https://store.steampowered.com/news/app/381210/view/3723958226061651097"
+      ],
+      [
+        "Epic Games Store is broken on Linux. Steam Recommended.",
+        null
+      ]
+    ],
+    "updates": [
+      {
+        "name": "Plans to support Steam Deck",
+        "date": "Nov 9, 2021, 5:55 PM EST",
+        "reference": "https://www.theverge.com/2021/10/5/22709918/valve-steam-deck-supported-games-anti-cheat-proton-eac-battleye-epic"
+      },
+      {
+        "name": "Runs with workarounds",
+        "date": "Nov 15, 2022, 11:55 AM GMT+1",
+        "reference": "https://forum.deadbydaylight.com/en/discussion/comment/3265222/#Comment_3265222"
+      },
+      {
+        "name": "Previous forum link deleted",
+        "date": "Feb 22, 2023, 1:44 PM GMT+1",
+        "reference": "https://github.com/Starz0r/AreWeAntiCheatYet/issues/1151"
+      },
+      {
+        "name": "Dead by Daylight is Steam Deck Verified!",
+        "date": "May 10, 2023, 12:27 PM CDT",
+        "reference": "https://store.steampowered.com/news/app/381210/view/3723958226061651097"
+      }
+    ],
+    "storeIds": {
+      "steam": "381210",
+      "epic": {
+        "namespace": "611482b8586142cda48a0786eb8a127c",
+        "slug": "dead-by-daylight"
+      }
+    },
+    "slug": "dead-by-daylight",
+    "dateChanged": "2024-09-01T22:22:14.167Z"
+  },
+  {
+    "url": "https://robertsspaceindustries.com/",
+    "name": "Star Citizen",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "notes": [
+      [
+        "Quick Start Guide (Recommended)",
+        "https://github.com/starcitizen-lug/knowledge-base/wiki/Quick-Start-Guide"
+      ]
+    ],
+    "updates": [
+      {
+        "name": "\"Linux/Wine does not work currently, we are investigating a solution to the problem\"",
+        "date": "Nov 16, 2021, 11:59 PM GMT+2",
+        "reference": "https://robertsspaceindustries.com/spectrum/community/SC/forum/190048/thread/star-citizen-alpha-3-15-1e-ptu-7876811-patch-notes"
+      }
+    ],
+    "storeIds": {},
+    "slug": "star-citizen",
+    "dateChanged": "2024-09-08T21:25:56.880Z"
+  },
+  {
+    "url": "https://newworld.com",
+    "name": "New World",
+    "logo": "",
+    "native": false,
+    "status": "Supported",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat"
+    ],
+    "notes": [],
+    "updates": [
+      {
+        "name": "Added Linux support / Workaround no longer required",
+        "date": "May 26, 2022, 3:14 AM GMT+2",
+        "reference": "https://forums.newworld.com/t/solved-please-add-easy-anticheat-support-for-linux/256617/772"
+      }
+    ],
+    "storeIds": {},
+    "slug": "new-world",
+    "dateChanged": "2024-01-19T04:40:56.000Z"
+  },
+  {
+    "url": "https://www.playlostark.com/",
+    "name": "Lost Ark",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "https://www.gamingonlinux.com/2025/07/lost-ark-from-amazon-games-appears-to-have-enabled-the-anti-cheat-for-linux-steamos/",
+    "anticheats": [
+      "Easy Anti-Cheat",
+      "AnyBrain"
+    ],
+    "notes": [
+      [
+        "Proton 10 beta; Proton-GE 10.9 or later recommended.",
+        null
+      ]
+    ],
+    "updates": [],
+    "storeIds": {
+      "steam": "1599340"
+    },
+    "slug": "lost-ark",
+    "dateChanged": "2025-07-17T18:24:43.0000000-04:00"
+  },
+  {
+    "url": "https://albiononline.com/",
+    "name": "Albion Online",
+    "logo": "",
+    "native": true,
+    "status": "Supported",
+    "reference": "https://albiononline.com/en/download",
+    "anticheats": [
+      "Easy Anti-Cheat",
+      "BattlEye"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {
+      "steam": "761890"
+    },
+    "slug": "albion-online",
+    "dateChanged": "2024-09-29T21:31:44.584Z"
+  },
+  {
+    "url": "https://overwatch2.playoverwatch.com/en-us/trailer",
+    "name": "Overwatch 2",
+    "logo": "",
+    "status": "Supported",
+    "native": false,
+    "reference": "",
+    "anticheats": [
+      "Warden"
+    ],
+    "notes": [],
+    "updates": [
+      {
+        "name": "Playing on Linux or even a Mac while on an emulated Windows environment is not bannable",
+        "reference": "https://us.forums.blizzard.com/en/overwatch/en/overwatch/t/can-we-get-banned-for-playing-on-linux/70929/4",
+        "date": "Fri Apr 20 2018 23:26:33 GMT+0000"
+      }
+    ],
+    "storeIds": {
+      "steam": "2357570"
+    },
+    "slug": "overwatch-2",
+    "dateChanged": "2024-01-19T04:40:56.000Z"
+  },
+  {
+    "url": "https://www.reachthefinals.com/",
+    "name": "THE FINALS",
+    "logo": "",
+    "native": false,
+    "status": "Supported",
+    "reference": "",
+    "anticheats": [
+      "Easy Anti-Cheat",
+      "Denuvo Anti-Cheat",
+      "AnyBrain"
+    ],
+    "notes": [],
+    "updates": [],
+    "storeIds": {
+      "steam": "2073850"
+    },
+    "slug": "the-finals",
+    "dateChanged": "2025-11-08T12:54:47.0000000-05:00"
+  },
+  {
+    "url": "",
+    "slug": "prey",
+    "name": "Prey",
+    "logo": "",
+    "native": false,
+    "status": "Running",
+    "reference": "",
+    "anticheats": [
+      "PunkBuster"
+    ],
+    "updates": [],
+    "notes": [],
+    "storeIds": {
+      "steam": "480490"
+    },
+    "dateChanged": "2024-10-05T16:27:40.508Z"
+  }
+]

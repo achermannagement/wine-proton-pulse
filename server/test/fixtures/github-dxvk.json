@@ -1,0 +1,22 @@
+[
+  {
+    "tag_name": "v3.1.1",
+    "name": "Version 3.1.1",
+    "body": "## Bug fixes and Improvements\r\n- Implemented `DXGI_SCALING_NONE` and [SetBackgroundColor](https://learn.microsoft.com/en-us/windows/win32/api/dxgi1_2/nf-dxgi1_2-idxgiswapchain1-setbackgroundcolor) methods for DXGI swap chains. This reportedly fixes some Adobe software. (PR #5871)\r\n- Fixed shader compiler crash with certain ENB shaders. (PR https://github.com/doitsujin/dxbc-spirv/pull/94)\r\n- **Call of Duty: Ghosts**: Fixed vertex explosions on player models.\r\n- **Corpse Party**: Fixed regression that would cause part of the screen to be dark. (PR #5904)\r\n- **Painkiller: Black Edition**: Fixed an issue with the game window not being sized properly. (#3762)\r\n- **Rayman 3**: Fixed regression that would cause flickering graphics. (#5886)\r\n- **Skyrim SE**: Worked around poor CPU  performance when unlocking frame rate on some setups. (#5885)\r\n- **SpellForce 2 Anniversary Edition**: Fixed an issue that could cause deadlocks. (#5874)\r\n\r\n**Note:** Unfortunately, some anti-virus software has once again started flagging our 32-bit builds.",
+    "html_url": "https://github.com/doitsujin/dxvk/releases/tag/v3.1.1",
+    "published_at": "2026-09-15T17:43:25Z",
+    "created_at": "2026-09-15T17:24:13Z",
+    "prerelease": false,
+    "draft": false
+  },
+  {
+    "tag_name": "v3.1",
+    "name": "Version 3.1",
+    "body": "## Feature support\r\n### DXGI incremental presentation\r\nAdded basic support for DXGI [present parameters](https://learn.microsoft.com/en-us/windows/win32/api/dxgi1_2/ns-dxgi1_2-dxgi_present_parameters). This fixes UI rendering issues in **VirtualDJ** (#5853), and is also used by various game launchers, such as Ubisoft Connect.\r\n\r\nIf supported by the driver, `VK_KHR_incremental_present` is leveraged to forward dirty rectangles to Vulkan, which *may* reduce the amount of work the compositor has to do, but is not guaranteed to do so.\r\n\r\n### D3D11 buffer render targets\r\nImplemented support for creating render target views on [buffers](https://learn.microsoft.com/en-us/windows/win32/api/d3d11/ns-d3d11-d3d11_buffer_rtv) directly. This is primarily used by various older Frostbite engine titles, including **Battlefield 3** where it fixes a long-standing issue with clouds misrendering in some situations (#5857).\r\n\r\n**Note:** This feature is emulated by creating a 1D texture internally. It is *not* meant to be performant.\r\n\r\n### Intel vendor extensions\r\nIntel-specific extension libraries are now loaded when using an Intel GPU, which is a requirement for Proton to support Intel vendor extensions for D3D11 in the future. This will work similarly to AMDAGS and NVAPI extensions that are already supported.\r\n\r\n## Bug fixes and Improvements\r\n- Improved compatibility with some external overlays that hook specific DXGI entry points (PR #5846, PR #5851).\r\n- Render areas in render passes are more aggressively optimized to the actual rendered image region on tiling GPUs.\r\n- Fixed a D3D9 fog regression that broke rendering in **Mabinogi**, **The Witcher 1** and potentially other games. (#5804, #5808)\r\n- Fixed a crash when applications try to compile shaders that can only work with D3D12.\r\n- Worked around a specific type of out-of-memory crash on Nvidia GPUs with descriptor heaps enabled. (#5855)\r\n  Additionally, added `dxvk.enableNvCudaInterop` configuration option so users can explicitly disable `VK_NVX_*` extensions. This may be helpful for troubleshooting similar out-of-memory errors, but disables DLSS support.\r\n- **Ghost Recon Breakpoint**: Fixed an issue where pipeline state would not be set up properly for a specific shader.\r\n  Also fixed an issue with water misrendering on Nvidia GPUs. (#5849, https://github.com/doitsujin/dxbc-spirv/pull/92)\r\n- **Mirrors Edge**: Fixed some Vulkan validation errors. (#5826)\r\n- **RaceRoom Racing Experience**: Fixed an issue where the web-based UI wouldn't render properly on Proton 11.",
+    "html_url": "https://github.com/doitsujin/dxvk/releases/tag/v3.1",
+    "published_at": "2026-08-28T16:23:29Z",
+    "created_at": "2026-08-27T17:33:54Z",
+    "prerelease": false,
+    "draft": false
+  }
+]
